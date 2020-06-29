@@ -10,7 +10,7 @@ Project done under the guidance of : DLithe
 
 
 
-Done by: <your name>
+Done by: B. Ananya, 4NM17IS033
 
 Customer Fraud Detection Analysis using Machine learning models
 
@@ -49,11 +49,11 @@ The steps involved in the project are:
 
 
 
-for better accuracy results Ramdom Forest algorithm is used
+for better accuracy results Isolation Forest algorithm is used
 
 
 
-Random Forest is easy to implement. It builds multiple decision trees and merges them together to get a more accurate and stable prediction.
+Isolation Forest is easy to implement. It builds multiple decision trees and merges them together to get a more accurate and stable prediction.
 
 
 
@@ -63,4 +63,4 @@ Random Forest is easy to implement. It builds multiple decision trees and merges
 
 Final result of analysis:
 
-The accuracy obtained is 90 (Random Forest algorithm)
+The accuracy obtained is 99 (Isolation Forest algorithm)
